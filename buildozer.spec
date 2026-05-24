@@ -34,7 +34,7 @@ icon.filename = icone.png
 android.strings = 
 
 # Requisitos (bibliotecas que o app precisa)
-requirements = python3,kivy,requests,base64,Pillow
+requirements = python3,kivy,requests,Pillow
 
 # Orientação
 orientation = portrait
